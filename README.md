@@ -31,3 +31,20 @@ This guide sets up:
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/malikhuyar/kali-terminal-look-/main/install.sh)
+🧪 After Installation
+
+    Restart your terminal or type:
+
+zsh
+
+Then run the Powerlevel10k wizard:
+
+    p10k configure
+
+👨‍🔧 Uninstall or Revert to Bash
+
+If you want to switch back to Bash:
+
+chsh -s /bin/bash
+
+
